@@ -37,7 +37,7 @@ https://story.pxd.co.kr/549
 - Part of 아이폰 UX
 
 ```
-Busnniss : 아이폰은 핸드폰
+Business : 아이폰은 핸드폰
 Service : 음악재생 / 앱스토어 / 구글맵
 Tech : 멀티터치 / OS X / 센서 / 사파리
 UI : full screen / finger touch
@@ -49,7 +49,7 @@ GUI :  cover flow / skeuomorphism(스큐어모피즘)
 
 -> 위 모든 요소들이 아이폰의 UX를 탄생시켰다.
 
-위 모든 요소 -> point of contact -> USER
+위 모든 요소(Business/Brand/Service/Tech 등) -> point of contact -> USER
 사용자를 어떻게 만나야 할까? 사용자 니즈는 무엇일까? 해당 니즈를 해결하기 위해 어떤 기술 어떤 디자인.
 또는 어떤 서비스 또는 비지니스를 제공할까?
 ```
