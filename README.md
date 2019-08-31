@@ -88,7 +88,7 @@ Product/Contents/UI 디자인 : 통계 분석을 통해 주로 사용하는 데�
 이 과정에서는 UX 컨설팅 프로젝트를 진행. (전략수립 단계)<br>
 사업결정 - 전략수립 - 구축 - 운영/고도화 - 리뉴얼<br>
 - CJ 올리브마켓 관련 컨설팅 문서를 보여주심. (cj더마켓)<br>
-https://www.cjthemarket.com/pc/giftSet/norEvent?code=gift&_CAD=GiftPG&gclid=CjwKCAjwkqPrBRA3EiwAKdtwk7zhQ50K_P-HIUEFGdb2HSD6YRXozJxCIDW15CXdrinaZc6y63y3jhoCtwcQAvD_BwE
+https://www.cjthemarket.com/pc/main
 ```
 프로젝트는 유일한 물건, 서비스, 결과를 창조하기 위하여 진행되는 한시적인 노력.
 무언가를 새로 만들기 위한 한시적인 노력.
