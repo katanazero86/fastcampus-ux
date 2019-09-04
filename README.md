@@ -163,4 +163,8 @@ HOW
    요건분석을 해서, 접근방향을 도출해야한다. (RFP Request For Proposal : 제안요청서)
    주어진 자료를 분석하여 고객 경험 측면에서 집중해야 할 목표/범위를 설정하는 과정.
    목적 : 무엇을할건데? < 수단을 통해서, 목적을 달성할수 있는가? > 수단 : 무언가를 할거야
+   https://www.similarweb.com/
+   http://www.socialmetrics.co.kr/
+   https://datalab.naver.com/
+   https://trends.google.com/
 ```
