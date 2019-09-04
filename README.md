@@ -136,7 +136,7 @@ https://www.cjthemarket.com/pc/main
 = 어떤 문제에 집중 할 것인가?
 
 APPROACH 설정을 위해 가장 처음 챙겨야 할 2가지
-= WHAT 무엇 & WHY 왜
+= WHAT 무엇 & WHY 왜 & HOW 어떻게
 무엇을 만들거야? 왜 만들려고? 왜 할려고? 무엇을 이루고자 무슨 목표야?
 
 - 프로젝트 목표/현황
