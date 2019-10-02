@@ -354,3 +354,14 @@ Quick And Dirty
 실습
 조사설계 / 질문지 작성
 ```
+
+### 2019.10.02 - Day8
+
+```
+실습
+심층인터뷰 및 질문지 정리한걸 기반으로.
+
+Affinity Diagram 
+Positioning map 
+해보기.
+```
