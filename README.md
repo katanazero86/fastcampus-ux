@@ -365,3 +365,10 @@ Affinity Diagram
 Positioning map 
 해보기.
 ```
+
+
+### 2019.10.05 - Day9
+
+```
+실습
+```
