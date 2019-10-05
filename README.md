@@ -372,4 +372,8 @@ Positioning map
 ```
 실습
 UX 컨셉
+UI 패러다임은 늘 변화를 한다..(누구는 이걸 트렌드라고 한다.)
+- Skeumorpihism
+- Flat
+- Material
 ```
